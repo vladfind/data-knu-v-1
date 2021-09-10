@@ -1,0 +1,102 @@
+[
+	{
+	  "name": "Иван Сергеевич Иванов",
+	  "workNumber": "",
+	  "mobileNumber": "",
+	  "birthday": "",
+	  "email": "",
+	  "location": "улица Пушкина 35",
+	  "category": "сотрудник",
+	  "note": ""
+	},
+	{
+	  "name": "Иван Петрович Шевченко",
+	  "workNumber": "0985578511",
+	  "mobileNumber": "",
+	  "birthday": "",
+	  "email": "go@gmailc.com",
+	  "location": "",
+	  "category": "знакомый ",
+	  "note": ""
+	},
+	{
+	  "name": "Петр Сергеевич Сидоров",
+	  "workNumber": "",
+	  "mobileNumber": "",
+	  "birthday": "01.03.1998",
+	  "email": "what@outlook.com",
+	  "location": "",
+	  "category": "сотрудник",
+	  "note": ""
+	},
+	{
+	  "name": "Иван Иванович Сидоров",
+	  "workNumber": "",
+	  "mobileNumber": "",
+	  "birthday": "05.03.1995",
+	  "email": "let@gmail.com",
+	  "location": "улица Пушкина 37",
+	  "category": "сотрудник",
+	  "note": "Опытный работник"
+	},
+	{
+	  "name": "Артем Сергеевич Иванов",
+	  "workNumber": "",
+	  "mobileNumber": "0978177717",
+	  "birthday": "",
+	  "email": "what@yahoo.com",
+	  "location": "улица Пушкина 81",
+	  "category": "знакомый ",
+	  "note": "Давний знакомый"
+	},
+	{
+	  "name": "Артур Сергеевич Петров",
+	  "workNumber": "0948424441",
+	  "mobileNumber": "",
+	  "birthday": "",
+	  "email": "myhome@gmail.com",
+	  "location": "улица Хрещатик 35",
+	  "category": "сотрудник",
+	  "note": ""
+	},
+	{
+	  "name": "Сергей Сергеевич Ткач",
+	  "workNumber": "",
+	  "mobileNumber": "",
+	  "birthday": "01.05.1997",
+	  "email": "tkach@gmail.com",
+	  "location": "улица Шевченка 41",
+	  "category": "сотрудник",
+	  "note": ""
+	},
+	{
+	  "name": "Иван Андреевич Шампур",
+	  "workNumber": "0981235566",
+	  "mobileNumber": "",
+	  "birthday": "06.07.2000",
+	  "email": "shampoor@gmail.com",
+	  "location": "улица Сквозная 35",
+	  "category": "сотрудник",
+	  "note": ""
+	},
+	{
+	  "name": "Андрей Сергеевич Андрейко",
+	  "workNumber": "",
+	  "mobileNumber": "",
+	  "birthday": "01.07.2001",
+	  "email": "andrei@gmail.com",
+	  "location": "улица Пушкина 97",
+	  "category": "сотрудник",
+	  "note": ""
+	},
+	{
+	  "name": "Владислав Сергеевич Иванов",
+	  "workNumber": "",
+	  "mobileNumber": "0986266115",
+	  "birthday": "01.03.2000",
+	  "email": "vlad@gmail.com",
+	  "location": "улица Пушкина 101",
+	  "category": "одноклассник",
+	  "note": ""
+	}
+  ]
